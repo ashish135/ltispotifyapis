@@ -1,3 +1,24 @@
+# Spotify APIs using Laravel
+I have used Spotify API to create track in my mysql database and restrict it by isrc as unique ID. We can add and search the the track by ISRC ID. You can check and test laravel APIs by installing this repo.
+
+![Screenshot](https://ashishtomarofficial.in/wp-content/uploads/2023/10/tracks.jpg)
+
+![Screenshot](https://ashishtomarofficial.in/wp-content/uploads/2023/10/Search.jpg)
+
+![Screenshot](https://ashishtomarofficial.in/wp-content/uploads/2023/10/create.jpg)
+
+![Screenshot](https://ashishtomarofficial.in/wp-content/uploads/2023/10/already.jpg)
+
+## POSTMAN Spotify APis
+I have configured the token and expolre APIs. Here you can check with postman
+
+https://api.postman.com/collections/27891340-aa84a147-3d5c-4fd8-9359-9e8a5cb389cd?access_key=PMAT-01HC7CD8V1BRDJNF4HM50KATQX
+
+![Screenshot](https://ashishtomarofficial.in/wp-content/uploads/2023/10/postman.jpg)
+
+![Screenshot](https://ashishtomarofficial.in/wp-content/uploads/2023/10/postman-1.jpg)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
